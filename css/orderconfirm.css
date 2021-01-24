@@ -1,0 +1,20 @@
+body{margin: 0; padding: 0; font-family:Myriad Pro Regular,Helvetica Neue,Helvetica,sans-serif; 
+     overflow-x: hidden;}
+
+.container-fluid{padding: 0px !important; overflow-x: hidden; overflow-y: auto;}
+
+.bbox{margin-top: 80px; margin-bottom: 80px;}
+
+.confbox{margin-top: 40px; background-color: #eee; padding: 15px;}
+
+.confbox h4{font-weight: bold;}
+
+.spchar{color: #f55959;}
+
+.spchar1{color: #ff4747; text-align: right; margin-top: 40px;}
+
+.buttons{display: inline-block; float: right; margin-top: 20px; margin-bottom: 80px;}
+
+#first, #first:hover{background-color: #ff4747; color: white;}
+
+#imp, #imp:hover{background-color: #19b819; color: white; font-weight: bold;}

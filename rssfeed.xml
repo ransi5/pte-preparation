@@ -1,0 +1,32 @@
+<![CDATA[
+<?php
+ob_start();
+session_start();
+include_once 'php/includes/connect.php';
+
+$sql = "select blog.id, blog.id, blog.title, blog.description, blog.blogfile, "
+            . "blog.authorid, blog.date, members.name from blog inner join members on "
+            . "members.id = blog.authorid";
+$s = $conn->prepare($sql);
+$s->bindValue(':category', $_GET['category']);
+$s->execute();
+$rows = $s->fetchAll();
+
+ob_flush();?>
+]]>
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+    <channel>
+        <title>MakeUseOf RSS Feed</title>
+        <link>https://www.pte-preparation.com/</link>
+        <description>Offers PTE preparation courses online with high quality academic content, practice questions 
+            & tests with model answers & coaching for one attempt PTE success</description>
+        <item>
+            <title>Entry Title</title>
+            <link>Link to the entry</link>
+            <guid>http://example.com/item/123</guid>
+            <pubDate>Sat, 9 Jan 2010 16:23:41 GMT</pubDate>
+            <description>[CDATA[ This is the description. ]]</description>
+        </item>
+    </channel>
+</rss>

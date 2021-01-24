@@ -1,0 +1,52 @@
+<p>If you have read "Summarize Written Text: Understand the Game" you should have identified the challenges that you as an individual will face in this PTE item type and are probably wondering how to overcome these challenges. In this blog, you will find tips and strategies that will make "summarize written text" question type seem like a walk in the park for anyone, no matter the level of their English skills. However, if you have not read "Summarize Written Text: Understand the Game" I strongly recommend that you read the blog before going further. It will give you a strong basis to understand and implement the tips and strategies in this blog.</p>
+<p>The sub skills for reading and writing for "summarize written text" question type are inter-related. You cannot strategize for each sub skill; hence, we will reveal strategies by activity type namely reading and writing. In this blog, the strategies and tips have been divided into four parts "while Reading", "Before Writing", "While Writing", "After Writing".</p>
+<h4>While Reading</h4>
+<p>You know the reading paragraph that you will come across for summarize written text in the PTE test will always be academic by character. What you may not know is that academic texts are different from general texts such as blogs. The purpose of academic texts is to provide readers with information in a manner that is easily found, understood and interpreted by academicians and general readers. To achieve this, academic texts and its elements such as paragraphs are composed with a specific academic structure. The content in each academic text varies but the underlying structure used to present that information remains consistent. For you to comprehend the various aspects, descriptions, implications and conclusions contained in the summarize written text passage, it is vital that you understand the structure of academic paragraphs.</p>
+<h4>Structure of academic paragraphs</h4>
+<p>Any academic paragraph that you come across will typically contain three components similar to that of an essay. These components are called</p>
+<ol style="color:black">
+<li>Topic Sentence</li>
+<li>body</li>
+<li>Conclusion</li>
+</ol>
+<p>The topic sentence and body are features of all academic paragraphs, while, Conclusion may or may not be a feature of academic paragraphs.</p>
+<h4>Topic Sentence</h4>
+<p>The first sentence of any academic paragraph is always the topic sentence. The topic sentence introduces and clearly states the main topic/idea/point of the paragraph or developed further in the paragraph or it will preview the kind of information that the rest of paragraph is likely to contain or it will link back to the previous paragraph. Generally, when academicians are looking for a certain piece of information in an academic text they read only the topic sentence of each paragraph to assess if the information is likely to be in that paragraph and if they should read further.</p>
+<p>In the context of summarize written text the topic sentence or the first sentence of the paragraph will help you identify the main topic/idea/point of the paragraph or what central topic/idea/point the author will elaborate on further. This topic/idea/point can be divided further into primary topic and sub topics.</p>
+<p>Primary topic is the main subject of the passage and should form the main subject of your summary. The topic sentence may introduce the primary topic in a context. This context forms the sub topic/topics of the paragraph. The sub topic/topics may not be found in the topic sentence. In that case, you have to figure out the sub topics from the body section of the passage. For example, Australian economy could be discussed from a number of viewpoints. However, the author may choose to discuss just one or two aspects in one paragraph, such as financial policy. In this case, the primary topic will be Australian economy while the sub topic will be financial policy. Make a note of primary topic at the top of your notebook and write down the sub topic/topics below it.</p>
+<p>Identifying primary and sub topics of a paragraph is an art and can be an arduous task sometimes. This is where PTE tests your skills to identify a writer's purpose, tone and attitude and comprehend explicit and implicit information. In the example above, the primary topic could very well have been financial policy and the sub topic could have been Australian economy. To identify these parts correctly; read the whole paragraph with a purpose to understand its content and structure and then read the topic sentence to identify the primary and sub topics in context of the paragraph.</p>
+<h4>body</h4>
+<p>The body comes after the topic sentence. It is here that the main topic/idea/point introduced in the topic sentence is elaborated further. Elaboration may include description, analysis, implications, inter-relationships, exemplification or any combination of these.</p>
+<p>There is a plethora of information that could be given in the body section. What is important is that you comprehend the description, analysis, implications, inter-relationships exemplification or any combination of these given in the context of primary and sub topics. On your note book make a brief note of arguments under the sub topic to which they relate.</p>
+<h4>Conclusion</h4>
+<p>Conclusion forms the last part of any paragraph. It is here that the author tries to round off what has been said in the paragraph; or qualifies his views. It is important that you understand how the conclusion has been derived from the arguments given in the passage and how the conclusion fits in the paragraph. At the bottom of your notebook make a brief note of the conclusion and draw lines from the parts of the body section (from where the conclusion has been directly derived) to the conclusion.</p>
+<p>Identifying these parts of an academic paragraph is easy. While, it will make comprehending the passage easier, you still have to understand the content and the flow of arguments in the paragraph while inferring meaning of unfamiliar words. This is an art and comes with practice.</p>
+<h4>Before writing</h4>
+<p>Many PTE test takers confuse writing summary with paraphrasing. These test takers spend too much time and effort paraphrasing and joining sentences. This is the worst strategy to tackle summarize written text questions. You must make effort to write the summary in your own words. This is much easier than paraphrasing.</p>
+<p>To write the summary, first, you must have good comprehension of the passage. You will know you have good comprehension when you know the topics discussed; conclusion; the arguments that lead the author to that conclusion; and the structure of the body section of the passage. To achieve this, do not focus on each sentence or individual parts of the passage but on the macro picture, which is the meaning of the paragraph as a whole. When you have clarity on the content of the passage as a whole, you can put it together in writing in your notebook.</p>
+<p>You know you have to include all the key aspects in your summary to achieve full points for content. However, as a general rule do not include examples and definitions in your summary. All aspects that are required to present the main topic/idea/point/conclusion of the passage are key and should be mentioned in your summary.</p>
+<p>Writing a one sentence and 75 word summary requires application of trial and error methodology. You try and put the content together in different permutations and combinations till you have all the key aspects of the passage in the required criteria for summarize written question type.</p>
+<h4>While Writing</h4>
+<p>PTE academic is an academic English test. It is imperative that you write in academic English. Writing in academic English means you use appropriate academic vocabulary, you do not use slang words, you do not use contractions such as don't, couldn’t, you do not use abbreviations or short forms such as 2 for "to" or "two", you do not use words such as "actually", "really", "very" to emphasize a point and you use proper punctuation. Furthermore, your summary should have a minimum 5 words and maximum 75 words and should be in one complete sentence. While the maximum word limit is 75; it is not necessary that your summary contain exact or be near 75 words. You can conclude your answer in less than 75 words as long as its length is more than 5 words.</p>
+<h4>Grammar</h4>
+<p>You must write better than you speak. Do not experiment with complex grammar during actual PTE test. Use grammar that you are comfortable with. We have observed that during the test many students write excellent summaries but without punctuations. Use punctuation where appropriate or it will cost you dearly.</p>
+<h4>Vocabulary</h4>
+<p>The machine expects you to use appropriate choice of words. "Appropriate choice of words" means to use academic vocabulary and show range of vocabulary in your answer. You can do this by using synonyms where appropriate. Avoid using the same words as in the passage. Try using a synonym for these where appropriate. Use a variety of link words where appropriate in your answer. Your choice of words should make grammatical sense in context of the sentence.</p>
+<h4>After Writing</h4>
+<p>After you are done typing your answer, check your answer. You should check if the length is appropriate, it contains all aspects leading to the conclusion, it makes common sense, grammar is correct, choice of words is appropriate, shows variety and use of punctuation is appropriate.</p>
+<p>I hope you found the tips in this section helpful. For complete PTE preparation, I strongly recommend that you enroll for one of our PTE preparation courses to practice your skills in an environment that simulates actual PTE test. You will get G-Analytics to tell you what skills you need to focus on most and personal tutor feedback to help you with any difficulties that you face. So you get the scores you need in one attempt.</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

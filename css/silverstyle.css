@@ -1,0 +1,158 @@
+body{margin: 0; padding: 0; font-family:Myriad Pro Regular,Helvetica Neue,Helvetica,sans-serif;}
+
+.sec1 .container{margin: auto;}
+
+.sec1 .logo{position: absolute; margin-top: 105px;}
+
+.sec1 .logo .logtxt{font-size: 2.4em; font-weight: 800; color: white;}
+
+.sec1 .logo .logbox{position: absolute; width: 74px; height: 20px; background-color: #f55959; color: white;}
+
+.sec1 .quote{position: absolute; margin-top: 105px; left: 50%; text-align: center;}
+.sec1 .quoteg{position: absolute; top: 230px; text-align: center;}
+
+.sec1 p{color: white; font-size: 42px; text-shadow: 1px 3px 9px #000000; padding: 0px; margin: 0px;}
+
+.sec1 .cname{position: absolute; bottom: 70px;}
+.sec1 .cnameg{position: absolute; margin-top: 105px; right: 10%;}
+
+.sec1 .green60{color: #63e010; font-size: 48px; font-weight: bold;}
+
+.sec1 .green56{color: #63e010; font-size: 48px; font-weight: bold;}
+
+.sec1 .green72{color: #63e010; font-size: 60px; font-weight: bold;}
+
+.sec1 .prompt{position: absolute; bottom: 70px; left: 50%;}
+
+.sec1 .prompt1{position: absolute; bottom: 70px; right: 10%;}
+
+.sec1 a{padding: 0px; text-decoration: none; margin-bottom: 10px;}
+
+.sec1 .btn-default{background-color: #f55959; color: white; font-weight: 700; padding: 15px 70px;
+    border-radius: 4px; font-size: 22px; letter-spacing: 1px;}
+
+/*Enf of sec1 styling*/
+
+.sec2{padding: 30px 50px !important; text-align: center;}
+
+.sec2 h1{color: #f55959; font-size: 38px; text-align: center; margin-top: 0px; margin-bottom: 25px;}
+
+.sec2 .line{height: 3px; width: 125px; background-color: #082f6f; margin: 17px auto 25px;}
+
+.sec2 ul{font-size: 20px; display: inline-block; list-style-image: url("../images/images2.png");}
+
+.sec2 ul li{text-align: left;}
+
+.sec2 .greenb{font-weight: 700; color: #63e010;}
+
+.sec2 .btn-default{background-color: #f55959; color: white; font-weight: 700; padding: 8px 25px;
+    border-radius: 4px; font-size: 18px; letter-spacing: 1px; margin-top: 20px;}
+
+.sec2 .imp{color: red; font-weight: bold;}
+/*End of Sec2 Styling*/
+
+.mobile h1{display: none;}
+
+.sec3{padding: 30px !important; background-color: #4478aa;}
+
+.sec3 h2{margin-top: 0px; color: black; text-align: center;}
+
+.sec3 .line{height: 3px; width: 125px; background-color: #32c17a; margin: 18px auto 25px;}
+
+.sec3 .col-md-4{padding: 0px;}
+
+.sec3 img{width: 100%; height: 190px; display: inline-block; margin-bottom: 15px;}
+
+.sec3 p{color: white; display: inline-block; font-size: 20px; margin-top: 5px;}
+
+.sec4{padding: 30px !important; background-color: #32c17a;}
+
+.sec4 h2{margin-top: 0px; color: white; text-align: center;}
+
+.sec4 .line{height: 3px; width: 125px; background-color: #9999ff; margin: 18px auto 25px;}
+
+.sec4 .col-md-4{padding: 0px;}
+
+.sec4 img{width: 100%; height: 190px; display: inline-block; margin-bottom: 15px;}
+
+.sec4 p{color: black; display: inline-block; font-size: 20px; margin-top: 5px;}
+
+.sec5{padding: 30px !important; background-color: #9366b4;}
+
+.sec5 h2{margin-top: 0px; color: black; text-align: center;}
+
+.sec5 .line{height: 3px; width: 125px; background-color: #082f6f; margin: 18px auto 25px;}
+
+.sec5 .col-md-4{padding: 0px;}
+
+.sec5 img{width: 100%; height: 190px; display: inline-block; margin-bottom: 15px;}
+
+.sec5 p{color: white; display: inline-block; font-size: 20px; margin-top: 5px;}
+
+.sec6{padding: 30px !important; background-color: #ffc966;}
+
+.sec6 h2{margin-top: 0px; color: white; text-align: center;}
+
+.sec6 .line{height: 3px; width: 125px; background-color: blueviolet; margin: 18px auto 25px;}
+
+.sec6 .col-md-4{padding: 0px;}
+
+.sec6 img{width: 100%; height: 190px; display: inline-block; margin-bottom: 15px;}
+
+.sec6 p{color: black; display: inline-block; font-size: 20px; margin-top: 5px;}
+
+.sec7{padding: 30px !important; background-color: #9999ff;}
+
+.sec7 h2{margin-top: 0px; color: black; text-align: center;}
+
+.sec7 .line{height: 3px; width: 125px; background-color: #ffc966; margin: 18px auto 25px;}
+
+.sec7 .col-md-4{padding: 0px;}
+
+.sec7 img{width: 100%; height: 190px; display: inline-block; margin-bottom: 15px;}
+
+.sec7 p{color: white; display: inline-block; font-size: 20px; margin-top: 5px;}
+
+.sec8{padding: 30px !important; background-color: #ff7fff;}
+
+.sec8 h2{margin-top: 0px; color: white; text-align: center;}
+
+.sec8 .line{height: 3px; width: 125px; background-color: #9999ff; margin: 18px auto 25px;}
+
+.sec8 .col-md-4{padding: 0px;}
+
+.sec8 img{width: 100%; height: 190px; display: inline-block; margin-bottom: 15px;}
+
+.sec8 p{color: black; display: inline-block; font-size: 20px; margin-top: 5px;}
+
+.sec9{padding: 30px !important; background-color: #00e594;}
+
+.sec9 h2{margin-top: 0px; color: black; text-align: center;}
+
+.sec9 .line{height: 3px; width: 125px; background-color: red; margin: 18px auto 25px;}
+
+.sec9 .col-md-4{padding: 0px;}
+
+.sec9 img{width: 100%; height: 190px; display: inline-block; margin-bottom: 15px;}
+
+.sec9 p{color: white; display: inline-block; font-size: 20px; margin-top: 5px;}
+
+.link{margin: 25px auto; text-align: center;}
+
+.link a{padding: 14px 50px;  background-color: #f55959; color: white; 
+       text-decoration: none; border-radius: 4px; font-size: 18px;}
+
+
+
+
+
+@media screen and (max-width: 767px) {
+    .mobile h1{display: block; margin-top: 80px; color: #f55959 !important;}
+    .sec1{display: none;}
+    .sec2{padding: 40px 8px !important;}
+    .sec2 h1{margin-bottom: 25px; color: black;}
+    .sec3, .sec4, .sec5, .sec6, .sec7, .sec8, .sec9{text-align: center; padding: 30px 8px !important;}
+}
+
+
+

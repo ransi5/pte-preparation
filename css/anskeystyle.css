@@ -1,0 +1,74 @@
+body{margin: 0; padding: 0; font-family:Myriad Pro Regular,Helvetica Neue,Helvetica,sans-serif; 
+     overflow-x: hidden;}
+
+.container-fluid{padding: 0px !important; overflow-x: hidden; overflow-y: auto;}
+
+.box{margin-top: 70px;}
+
+table{border: 1px solid black; border-collapse: collapse; margin-top: 25px; margin-bottom: 50px;}
+th, td{padding: 6px 8px; text-align: center;}
+th{color: white; background-color: #082f6f;}
+table tr:nth-child(even) {background-color: #e4e4e4;}
+table tr:nth-child(odd) {background-color: #fff;}
+
+input[type=submit]{background-color: #f55959; color: white; padding: 6px 25px;}
+
+.anskeybox{max-width: 199px; border: 1px solid black; display: inline-block;  margin: 6px 10px; padding: 25px 27px; 
+          letter-spacing: 1px; font-weight: 600; overflow-wrap: break-word}
+
+#anskey3{background-color: purple; color: white;}
+#anskey4{background-color: orange; color: white;}
+#anskey5{background-color: orangered; color: white;}
+#anskey6{background-color: teal; color: white;}
+#anskey7{background-color: darkcyan; color: white;}
+#anskey8{background-color: green; color: white;}
+#anskey9{background-color: violet; color: white;}
+#anskey10{background-color: red; color: white;}
+#anskey11{background-color: magenta; color: white;}
+#anskey12{background-color: goldenrod; color: white;}
+#anskey13{background-color: firebrick; color: white;}
+#anskey14{background-color: blue; color: white;}
+#anskey15{background-color: indianred; color: white;}
+#anskey16{background-color: lightseagreen; color: white;}
+#anskey17{background-color: tomato; color: white;}
+#anskey18{background-color: cadetblue; color: white;}
+#anskey19{background-color: chocolate; color: white;}
+#anskey20{background-color: hotpink; color: white;}
+#anskey21{background-color: darkslateblue; color: white;}
+#anskey22{background-color: peru; color: white;}
+
+.mid h2{margin-top: 100px;}
+
+.modanswer{margin-bottom: 50px;}
+
+.text{background-color: #e4e4e4; padding: 6px;}
+
+.btn-default:hover, .btn-default:active, .btn-default:active:hover, .btn-default.disabled:hover{color: white; background-color: #f55959;}
+
+.ansbox{min-width: 159px; border: 1px solid black; display: inline-block;  margin: 6px 10px; padding: 5px 10px; 
+          font-weight: 600; overflow-wrap: break-word; text-align: center;}
+
+#ans3{background-color: purple; color: white;}
+#ans4{background-color: orange; color: white;}
+#ans5{background-color: orangered; color: white;}
+#ans6{background-color: teal; color: white;}
+#ans7{background-color: darkcyan; color: white;}
+#ans8{background-color: green; color: white;}
+#ans9{background-color: violet; color: white;}
+#ans10{background-color: red; color: white;}
+#ans11{background-color: magenta; color: white;}
+#ans12{background-color: goldenrod; color: white;}
+#ans13{background-color: firebrick; color: white;}
+#ans14{background-color: blue; color: white;}
+#ans15{background-color: indianred; color: white;}
+#ans16{background-color: lightseagreen; color: white;}
+#ans17{background-color: tomato; color: white;}
+#ans18{background-color: cadetblue; color: white;}
+#ans19{background-color: chocolate; color: white;}
+#ans20{background-color: hotpink; color: white;}
+#ans21{background-color: darkslateblue; color: white;}
+#ans22{background-color: peru; color: white;}
+
+audio::-internal-media-controls-download-button {display:none;}
+audio::-webkit-media-controls-enclosure {overflow:hidden;}
+audio::-webkit-media-controls-panel {width: calc(100% + 30px);}

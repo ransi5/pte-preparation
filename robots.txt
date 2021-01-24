@@ -1,0 +1,8 @@
+User-Agent: *
+Disallow: 
+Disallow: /myphpuploaders
+Disallow: /recordrtc
+Disallow: /serveruploads
+
+
+Sitemap: https://www.pte-preparation.com/sitemap.xml

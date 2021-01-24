@@ -1,0 +1,65 @@
+<p>Writing essay is a common feature of all English language proficiency tests and is one question type that all test takers struggle with. We have found, that the reason test takers struggle with essays is that they are unable to comprehend the essay question; they find it difficult to generate ideas; they are not sure of the essay structure; they are not able to communicate effectively. At the base of these problems is basically the fear of essay question type. In this section we will describe strategies and tips to overcome this fear and tackle problems with clarity of mind. When you master these strategies and tips with proper practice, Write Essay will seem like a walk in the park. However, to understand and implement these strategies you must first, understand the rules of the game.</p>
+<h4>The task</h4>
+<p>Write Essay is a long-answer writing item type that tests your ability to give persuasive arguments on a topic in writing. Only writing skills are assessed in this item type. There are 1 or 2 essay questions and you get 20 minutes to answer each essay question in this item type.</p>
+<p>The top section of the screen will contain instructions for Essay question type. The instructions will say something to the effect "You will have 20 minutes to plan, write and revise an essay about the topic below. Your response will be judged on how well you develop a position, organize your ideas, present supporting  details, and control the elements of standard written English. You should write 200-300 words". Instructions will remain same for all questions in this item type, so do not waste time reading them but understand and be aware of its content.</p>
+<p>Below instructions will be the Essay question that you have to read, comprehend, and analyze and then write an essay in 200 to 300 words in 20 minutes.</p>
+<p>Below the essay question, there will be a box in which you will have to type your answer. You will not be able to cut, copy and paste with your mouse or keyboard. Buttons to perform these functions are provided below the answer box. You will also find a word counter below the answer box to assist you in keeping track of the length of your answer.</p>
+<h4>Scoring</h4>
+<p>We have observed that PTE test takers equipped with the knowledge of PTE machine scoring system for the Essay question type do far better than students who are not. No matter the level of your English Skills, if you understand the machine scoring system for the Essay item type; and know the skills that you lag in; and if you are smart enough; you can develop strategies and techniques to beat the machine and maximize your score.</p>
+<p>The communicative skill scored in this section is writing. </p>
+<p>The writing sub skills tested in this section are writing for a purpose (to learn, to inform, to persuade); supporting an opinion with details, examples and explanations; organizing sentences and paragraphs in a logical way; developing complex ideas within a complete essay; using words and phrases appropriate to the context; using correct grammar; using correct spelling; writing under timed conditions.</p>
+<p>The writing sub skills tested are writing a summary; writing under timed conditions; synthesizing information; writing to meet strict length requirements; communicating the main points of a reading passage in writing; using words and phrases appropriate to the context; and using correct grammar.</p>
+<p>The machine scoring system will mark you on the following enabling skills to measure your aptitude in the above mentioned sub skills.</p>
+<ul style="color:black;">
+<li>Content</li>
+<li>Form</li>
+<li>Development, structure and coherence</li>
+<li>Grammar</li>
+<li>General linguistic Range</li>
+<li>Vocabulary</li>
+<li>spelling</li>
+</ul>
+<p>You will have to show your aptitude in sub skills to score full marks in these enabling skills. The total score for the essay question type is got by adding the score for enabling skills. This score is than allocated to communicative skill of writing, and to your overall score.</p>
+<h4>Content</h4>
+<p>Content, is the first enabling skill scored by the machine scoring system. The maximum score for content is 3 and the minimum score is 0. If you score 0 the machine scoring system will not mark you on other enabling skills and your score for that particular essay question will be 0.</p>
+<p>You get maximum score 3, if you deal with the essay question adequately which basically means that you deal with all aspects of the essay question.</p>
+<p>You score 2, if you deal with the essay question but do not deal with one minor aspect. </p>
+<p>You score 1, if you deal with the essay question but omit one major aspect and more than one minor aspect.</p>
+<p>You score 0 only if you do not deal with the essay question properly.</p>
+<h4>Form</h4>
+<p>After content, you will be marked on the enabling skill of form. Scoring for form is easy for this question type and almost all test takers score full marks for form. You can score a maximum 2, and lowest 0 for form.</p>
+<p>You get maximum score 2, if the length of your answer is between 200 to 300 words</p>
+<p>You score 1, if the length of your response is between 120 and 199 words or between 301 and 380 words.</p>
+<p>You score 0 only if the length of your essay is less than 120 words or more than 380 words, or is written in capital letters, or contains no punctuation, or only consists of bullet points and very short sentences.</p>
+<h4>Development, structure and coherence</h4>
+<p>The enabling skill of development, structure and coherence tests how well you can develop, structure and coherently present your arguments on the essay topic. Once you know the structure expected by PTE machine scoring system, it is easy to score full points for this enabling skill. You can score maximum 2 and minimum 0 for this enabling skill.</p>
+<p>You score maximum 2, if you show good development and coherent structure.</p>
+<p>You score 1, if your essay is less well structured and your paragraphs are poorly linked.</p>
+<p>You score 0 only if your essay lacks coherence and only consists of loose unstructured arguments.</p>
+<h4>Grammar</h4>
+<p>For grammar the machine scoring system looks at the complexity of your sentences. Grammar is scored by observing the use of complex sentences, punctuations and capitalization. For this enabling skill, the maximum score is 2 while the minimum score is 0.</p>
+<p>You score 2, only if your answer has complex sentences where necessary with correct grammatical structure.</p>
+<p>You score 1, if there are some grammatical errors that do not hinder communication.</p>
+<p>You score 0, only if your grammar contains simple structures with several mistakes and hinders communication. </p>
+<h4>General Linguistic Range</h4>
+<p>To assess general linguistic range the machine scoring system tests if you can use a wide variety of phrases and use complex sentence structures and vocabulary to accurately communicate your ideas. The machine scoring system tests if the test taker uses phrases repeatedly. For example, the machine will see if you repeatedly use the phrase "In my opinion". You can score maximum 2 and minimum 0 for this enabling skill.</p>
+<p>You score 2, if to express your ideas you display a wide variety of language to describe, emphasize and eliminate ambiguity. Basically, your writing should show that you are not restricted by language when expressing your ideas.</p>
+<p>You score 1, if you display sufficient language skills to clearly express viewpoints and develop arguments.</p>
+<p>You score 0 only if you use basic language and lack precision.</p>
+<h4>Vocabulary</h4>
+<p>To score Vocabulary, the PTE machine scoring system will look at if you have used academic words where necessary and if you have shown lexical range by using synonyms. For vocabulary, you can score maximum 2, and minimum 0. You score 2, if your choice of words in the answer is appropriate and you have shown broad lexical range. You score 0, only if your word choice is basic or not academic and insufficient to deal with the essay question.</p>
+<h4>Spelling</h4>
+<p>Most test takers who revise their answers for spelling do score full points for this enabling skill.</p>
+<p>you score 2 for correct spelling.</p>
+<p>You score 1 for one spelling error.</p>
+<p>You score 0 for more than one spelling error.</p>
+<p>If you understand the game for write essay question type, continue to our next blog to get tips and strategies that with practice will build the essential sub skills and which will help you maximize score in each of the enabling skills and communicative skill of writing.</p>
+<p>If you are ready for practice of essays; you can take the next step in your PTE Preparation by enrolling in one of our PTE preparation courses. You will get to practice your skills in an environment that simulates actual PTE test. You will have the G-Analytics tool to tell you what skills you need to focus on most and personal tutor feedback to help you along the way and get you the scores you need in one attempt. Have a look at our courses section to learn more.</p>
+
+
+
+
+
+
+
+

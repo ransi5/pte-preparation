@@ -1,0 +1,58 @@
+<div class="container">
+			<div class="row">
+   				<p class="text-justify" ><strong><i>Read the promp below. In 25 seconds, you must reply in your own words, as naturally and clearly as possible. You have 30 seconds to record your response. Your respsonse will be sent together with your score report to the institutions selected by you.</i></strong></p>
+        	</div>
+			<br>
+			<br>
+        	<div class="row">
+       			<p>Please introduce yourself. For example, you could talk about one or more of the following:</p>
+        	</div>
+        	<br>
+        	<div class="row">
+       			 <div>
+       			 	<p>- Your Interests</p>
+        			<p>- Your plans for future study</p>
+        			<p>- Why you want to study abroad</p>
+        			<p>- Why you need to learn English</p>
+        			<p>- Why you choose <i>this</i> test</p>
+        		<div>
+        	</div>
+        	<div class="row">
+        		<div class="container-fluid" style="width:500px" >
+					<div class="panel panel-primary">
+        				<div class="panel-heading">
+        	  		  		<h3 class="panel-title" style="text-align:center;"><strong>Recorded Answer</strong></h3>
+       				 	</div>
+       				 	
+        				<div class="panel-body" style="background-color: rgb(231,239,250);">
+        					<div class="row">
+        				     	<div class="col-sm-4">
+        				       			<p>Current Status : </p>
+        				       	</div>
+        				       	
+        				       	<div class="col-sm-8">
+        				       			<p id="status" style="font-weight:900;color:black;">Not Recording</p>
+        				       	</div>
+        			      	
+							</div>
+        				<br>
+        				<div class="row">
+        					<div class="col-sm-4">
+        				       	<p>Beginning in  : </p>
+        				    </div>
+        				     <div class="col-sm-1">
+  								 <p id="countdowntillrecord" style="font-weight:900;color:black;">x</p>
+        				     </div>
+             			</div>      				
+        				<br>
+        				<div class="row">
+        				     <div class="col-sm-12">
+        				       	<div id="progressbar" class="progress-bar progress-bar-success progress-bar-striped active" role="progressbar" aria-valuenow="40" aria-valuemin="0" aria-valuemax="100" style="width:100%;color: transparent;">
+        				     	      completed
+        				     	 </div>
+        				      </div>
+        				</div>
+        			</div>
+   				</div>
+			</div>
+		</div>

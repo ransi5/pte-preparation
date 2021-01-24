@@ -1,0 +1,42 @@
+<p>We know "summarize written text" is one of the few question types that test takers struggle with. We have found that the reason test takers struggle with this question type is because they are unable to comprehend the text properly; or they do not know what points from the text to include in their summary; or they do not know how to paraphrase the points in their own words; or they struggle to contain their answer within 75 words. In this section we will describe strategies and tips to overcome these problems and more. When you master these strategies and tips with proper practice, this question type will seem like a walk in the park. However, to understand and implement these strategies you must first, understand the rules of the game.</p>
+<h4>The task</h4>
+<p>Summarize written text is a short-answer writing item type. Both writing and reading skills are assessed and there are 2 or 3 questions in this item type. It tests your ability to read, understand, analyze and present key points of the text in one sentence of no more than 75 words. You get 10 minutes to answer each question in this item type.</p>
+<p>The top section of the screen will contain instructions for "summarize written text" question type. The instructions will say something to the effect "Read the passage below and summarize it using one sentence. Type your response in the box at the bottom of the screen. you have 10 minutes to finish this task. Your response will be judged on the quality of your writing and how well your response presents the key points in the passage". These instructions will remain same for all questions in this item type, so do not waste time reading them but understand and be aware of its content.</p>
+<p>Below the instructions will be the passage that you have to read, comprehend, analyze and present the key points of, in a one sentence summary.</p>
+<p>Below the passage, there will be a box in which you will have to type your answer in no more than 75 words. You will not be able to cut, copy and paste with your mouse or keyboard. Buttons to perform these functions are provided below the answer box. You will also find a word counter below the answer box to assist you in keeping track of the length of your answer.</p>
+<h4>Scoring</h4>
+<p>We have observed that PTE test takers equipped with the knowledge of PTE machine scoring system for "summarize written text" do far better than students who are not. No matter the level of your English Skills, if you understand the machine scoring system for this item type; and know the skills that you are lagging in; and if you are smart enough; you can develop strategies and techniques to beat the machine and maximize your score.</p>
+<p>The communicative skills scored in this section are reading and writing.</p>
+<p>The reading sub skills tested in this section are reading a passage under timed conditions; identifying a writer’s purpose, style, tone or attitude; comprehending explicit and implicit information; comprehending concrete and abstract information.</p>
+<p>The writing sub skills tested are writing a summary; writing under timed conditions; synthesizing information; writing to meet strict length requirements; communicating the main points of a reading passage in writing; using words and phrases appropriate to the context; and using correct grammar.
+</p>
+<p>The machine scoring system will mark you on the following enabling skills to measure your aptitude in the above mentioned sub skills.</p>
+<ul style="color:black;">
+<li>Content</li>
+<li>Form</li>
+<li>Grammar</li>
+<li>Vocabulary</li>
+</ul>
+<p>You will have to show your aptitude in sub skills to score full marks in these enabling skills. The total score for "summarize written text" question type is got by adding the score for enabling skills. This score is then allocated to communicative skill of writing, reading and to your overall score.</p>
+<h4>Content</h4>
+<p>Content, is the first enabling skill scored by the machine scoring system. The maximum score for content is 2 and the minimum score is 0. If you score 0 the machine scoring system will not mark you further, on other enabling skills and your score for that particular question will be 0.</p>
+<p>You get maximum score 2, if you mention all the aspects of the passage required for your answer to qualify as a good summary. This provides you the purpose of your reading and writing. Your purpose should be to identify and present all aspects of the passage. How to go about doing this is covered in our next blog "Summarize Written Text - How to get the scores you need in one attempt".</p>
+<p>You score 1, if you provide a fairly good summary but do not mention one or two aspects. </p>
+<p>You score 0 only if you omit or misrepresent the main aspects of the text.</p>
+<h4>Form</h4>
+<p>After content, you will be marked on the enabling skill of form. Scoring for form is easy for this question type and almost all test takers score full marks for form. You can score a maximum 1, and lowest 0 for form. According to the PTE score guide, you get the maximum score 1, if you give your answer in one, single, complete sentence. You score 0, only if your answer is in more than 1 sentence or if there are fewer than 5 and more than 75 words or if your answer is in capital letters. So, give your answer in one complete sentence and in no more than 5 and less than 75 words and use capital letters only where necessary.</p>
+<h4>Grammar</h4>
+<p>Scoring for grammar is quite simple. The machine simply tests the degree of understandability of your answer. The maximum score is 2 while the minimum score is 0. You score 2, only if your answer has correct grammatical structure. Clearly this should be your goal for all writing items. You score 1, if there are some grammatical errors that do not hinder communication. You score 0, only if your grammar is so bad that it hinders communication.</p>
+<h4>Vocabulary</h4>
+<p>For vocabulary, you can score maximum 2, and minimum 0. You score 2, if your choice of words in the answer is appropriate. You score 1, if there are some lexical errors but these do not hinder communication. You score 0, only if your word choice is so defective that it hinders communication.</p>
+<p>To score vocabulary, the PTE machine scoring system will look at if you have used academic words where necessary; if you have shown lexical range by using synonyms. We will describe further how and where to show vocabulary skills in our next blog.</p>
+<p>If you understand the game for "summarize written text" question type, continue to our next blog to get tips and strategies that with practice will build the essential sub skills which will help you maximize score in each of the enabling skills of content, form, grammar and Vocabulary and communicative skills of writing and reading for this item type.</p>
+<p>If you are ready for practice of summarize written text; you can take the next step in your PTE preparation by enrolling in one of our PTE preparation courses. You will get to practice your skills in an environment that simulates actual PTE test. You will have the G-Analytics tool to tell you what skills you need to focus on most and personal tutor feedback to help you along the way and get you the scores you need in one attempt. Have a look at our courses section to learn more.</p>
+
+
+
+
+
+
+
+

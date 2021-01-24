@@ -1,0 +1,609 @@
+.sec3 .thumb,
+.sec4 .courses {
+    text-align: center;
+    -webkit-transition: transform 1s
+}
+
+.sec2 img,
+.sec3 img {
+    border: 2px solid #526d9a
+}
+
+.sec4,
+body {
+    overflow-x: hidden
+}
+
+.sec2 h1,
+.sec2 h2,
+.sec3 .thumb,
+.sec3 h1,
+.sec4,
+.sec4 .courses {
+    text-align: center
+}
+
+body {
+    margin: 0;
+    padding: 0;
+    font-family: Myriad Pro Regular, Helvetica Neue, Helvetica, sans-serif;
+}
+
+.sec1 .logo {
+    position: absolute;
+    margin-top: 110px
+}
+
+.sec1 .logo .logtxt {
+    font-size: 2.4em;
+    font-weight: 800
+}
+
+.sec1 .logo .logbox {
+    position: absolute;
+    width: 74px;
+    height: 20px;
+    background-color: #f55959;
+    color: #fff
+}
+
+.sec1 .quote {
+    position: absolute;
+    bottom: 75px
+}
+
+.sec1 p {
+    color: #fff;
+    font-size: 48px;
+    text-shadow: 1px 3px 9px #000;
+    padding: 0;
+    margin: 0
+}
+
+.sec1 .green56,
+.sec1 .green60,
+.sec1 .green72 {
+    color: #63e010;
+    font-weight: 700
+}
+
+.sec1 .green60 {
+    font-size: 54px
+}
+
+.sec1 .green56 {
+    font-size: 48px
+}
+
+.sec1 .green72 {
+    font-size: 60px
+}
+
+.sec2 {
+    background-color: #fff;
+    width: 100%;
+    padding-top: 35px!important;
+    padding-bottom: 45px!important
+}
+
+.sec2 h1 {
+    color: #f55959;
+    font-size: 42px;
+    margin-top: 0
+}
+
+.sec2 .line {
+    height: 3px;
+    width: 125px;
+    background-color: #526d9a;
+    margin: 18px auto 25px
+}
+
+.sec2 h2 {
+    margin-top: 40px;
+    font-size: 32px
+}
+
+.sec2 img {
+    margin-top: 50px;
+    display: inline-block;
+    float: left;
+    width: 100%
+}
+
+.sec2 p {
+    font-size: 22px;
+    margin-top: 50px
+}
+
+.green48 {
+    color: #0fa80f;
+    font-size: 26px;
+    padding: 0
+}
+
+.sec3 {
+    background-color: #f55959;
+    padding: 35px!important
+}
+
+.sec3 .thumb {
+    padding: 10px;
+    transition: transform 1s
+}
+
+.sec3 h1 {
+    color: #fff;
+    margin-top: 5px
+}
+
+.sec3 .line {
+    height: 3px;
+    width: 125px;
+    background-color: #526d9a;
+    margin: 18px auto 5px
+}
+
+.sec3 .sp1 {
+    color: #63e010;
+    font-weight: 700
+}
+
+.sec3 img {
+    height: 250px;
+    width: 100%;
+    margin: 0
+}
+
+.sec3 p {
+    font-size: 20px;
+    margin-top: 25px;
+    line-height: normal;
+    color: #fff
+}
+
+.sec3 .thumb:hover {
+    -ms-transform: scale(1.1, 1.1);
+    -webkit-transform: scale(1.1, 1.1);
+    transform: scale(1.1, 1.1)
+}
+
+.sec3 a{padding: 15px 60px; background-color: #0fa80f; text-decoration: none; font-size: 20px; 
+       border-radius: 4px; color: white;}
+
+.sec4 {
+    padding: 35px 0!important;
+    background-color: #4478aa
+}
+
+.sec4 .line,
+.sec4 .line1 {
+    background-color: #f55959
+}
+
+.sec4 .line1 {
+    height: 3px;
+    width: 125px;
+    margin: 18px auto 5px
+}
+
+.sec4 .line {
+    height: 3px;
+    width: 125px;
+    margin: 1px auto 25px;
+    left: 0;
+    right: 0;
+    position: absolute;
+    z-index: 2;
+    display: none
+}
+
+.sec4 .row {
+    margin-top: 30px
+}
+
+.sec4 h1 {
+    color: #fff;
+    margin-top: 5px
+}
+
+.sec4 .col-sm-4,
+.sec4 .courses {
+    margin: 0;
+    padding: 0
+}
+
+.sec4 .courses {
+    overflow: hidden;
+    transition: transform 1s
+}
+
+.sec4 .courses img {
+    position: relative;
+    z-index: 1;
+    width: 100%;
+    height: 250px;
+    margin: 0 0 38px;
+    opacity: .75
+}
+
+.sec4 .courses h3,
+.sec4 .courses p {
+    position: absolute;
+    z-index: 2;
+    text-shadow: 1px 3px 9px #000;
+    text-align: center
+}
+
+.sec4 .courses h3 {
+    top: 55px;
+    left: 0;
+    right: 0;
+    color: #fff;
+    font-weight: 700
+}
+
+.sec4 .courses h3 .c1 {
+    color: #f55959;
+    font-size: 42px
+}
+
+.sec4 .courses p {
+    color: #fff;
+    font-size: 16px;
+    top: 125px;
+    display: none
+}
+
+.sec4 .courses a {
+    padding: 0;
+    text-decoration: none;
+    margin-bottom: 10px
+}
+
+.sec4 .courses .btn-default {
+    background-color: #f55959;
+    color: #fff;
+    font-weight: 700;
+    padding: 10px 35px;
+    border-radius: 4px;
+    border-color: #f55959;
+    font-size: 20px
+}
+
+.sec4 .courses:hover {
+    -ms-transform: translate(10px, 0);
+    -webkit-transform: translate(10px, 0);
+    transform: translate(10px, 0);
+    z-index: 3
+}
+
+.sec4 .courses:hover p {
+    display: block;
+    padding: 0 23px;
+    left: 0;
+    right: 0;
+    font-size: 20px
+}
+
+.sec4 .courses:hover p:last-of-type {
+    display: block;
+    padding: 0 28px;
+    left: 0;
+    right: 0
+}
+
+.sec4 .courses:hover h3 {
+    top: 15px
+}
+
+.sec4 .courses:hover .line {
+    display: block;
+    top: 115px
+}
+
+.sec5 {
+    padding: 35px 0!important;
+    text-align: center
+}
+
+.sec5 h1 {
+    color: #f55959;
+    margin-top: 5px
+}
+
+.sec5 .line1 {
+    height: 3px;
+    width: 125px;
+    margin: 18px auto 5px;
+    background-color: #526d9a
+}
+
+.sec5 h3 {
+    margin-bottom: 40px
+}
+
+.sec5 .sp2 {
+    font-size: 26px;
+    color: #63e010
+}
+
+.sec5 .circle1 h3,
+.sec5 .circle2 h3,
+.sec5 .circle3 h3,
+.sec5 .circle4 h3,
+.sec5 .circle5 h3 {
+    font-size: 46px;
+    text-shadow: 0 0 3px #fff
+}
+
+.sec5 .cent {
+    text-align: center;
+    display: inline-block
+}
+
+.sec5 .thumb {
+    width: 20%;
+    height: auto;
+    float: left;
+    -webkit-transition: transform 1s;
+    transition: transform 1s
+}
+
+.sec5 .circle1,
+.sec5 img {
+    width: 120px;
+    height: 120px;
+    margin: auto
+}
+
+.sec5 .flipper {
+    position: relative;
+    perspective: 1000;
+    z-index: 1
+}
+
+.sec5 .flipper .card {
+    transform-style: preserve-3d;
+    transition: all 1s linear
+}
+
+.sec5 .circle1 {
+    border: 3px solid #000;
+    border-radius: 50%;
+    background-color: #ec008c;
+    position: absolute;
+    backface-visibility: hidden;
+    left: 0;
+    right: 0
+}
+
+.sec5 img {
+    border: 3px solid #000;
+    border-radius: 50%
+}
+
+.sec5 .flipper:hover .card {
+    -webkit-transform: rotateY(180deg);
+    transform: rotateY(180deg)
+}
+
+.sec5 .circle1 h3 {
+    margin: 25px
+}
+
+.sec5 .circle2 {
+    border: 3px solid #000;
+    border-radius: 50%;
+    width: 120px;
+    height: 120px;
+    background-color: #39b54a;
+    position: absolute;
+    backface-visibility: hidden;
+    margin: auto;
+    left: 0;
+    right: 0
+}
+
+.sec5 .circle3,
+.sec5 .circle4 {
+    border: 3px solid #000;
+    width: 120px;
+    height: 120px;
+    position: absolute;
+    backface-visibility: hidden;
+    right: 0;
+    left: 0
+}
+
+.sec5 .circle2 h3 {
+    margin: 25px
+}
+
+.sec5 .circle3 {
+    border-radius: 50%;
+    background-color: #0072bc;
+    margin: auto
+}
+
+.sec5 .circle3 h3 {
+    margin: 25px
+}
+
+.sec5 .circle4 {
+    border-radius: 50%;
+    background-color: red;
+    margin: auto
+}
+
+.sec5 .circle4 h3 {
+    margin: 25px
+}
+
+.sec5 .circle5 {
+    border: 3px solid #000;
+    border-radius: 50%;
+    width: 120px;
+    height: 120px;
+    background-color: #f26522;
+    position: absolute;
+    backface-visibility: hidden;
+    margin: auto;
+    left: 0;
+    right: 0
+}
+
+.sec5 .circle5 h3 {
+    margin: 25px
+}
+
+.sec5 .thumb p {
+    margin-top: 25px;
+    font-size: 20px
+}
+
+.sec5 .thumb:hover {
+    -ms-transform: scale(1.1, 1.1);
+    -webkit-transform: scale(1.1, 1.1);
+    transform: scale(1.1, 1.1)
+}
+
+.sec6 {
+    background-image: url(../images/pte-preparation-woman-reading-pte-blog.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    width: 100%;
+    height: 470px;
+    position: relative;
+    margin: auto;
+    padding: 35px
+}
+
+
+.sec6 .blog ul
+ {
+    position: absolute;
+    right: 0
+}
+.sec6 .blog h1,
+.sec6 .line1,
+.sec6 .blog h2{}
+
+.sec6 .blog h1 {
+    color: #f55959;
+    font-weight: 700;
+    margin: 50px auto 5px;
+    left: 0
+}
+
+.sec6 .blog h2,
+.sec6 .blog ul .green30 {
+    font-weight: 700;
+    color: #63e010;
+    text-shadow: 0 0 3px #000
+}
+
+.sec6 .line1 {
+    height: 3px;
+    width: 125px;
+    margin: 25px auto 5px;
+    background-color: #526d9a;
+    left: 0
+}
+
+.sec6 a{padding: 8px 40px; text-decoration: none; background-color: #f55959; color: white; font-size: 24px; 
+       font-weight: 500; letter-spacing: 2px; border: 1px solid black; border-radius: 4px;}
+
+.sec6 .blog ul {
+    list-style-image: url(../images/images1.png);
+    display: table-cell;
+    margin: auto;
+    top: 200px;
+    left: 20%;
+    background-position: center
+}
+
+.sec6 .blog ul li {
+    font-size: 24px;
+    text-align: left;
+    padding-left: 30px
+}
+
+@media screen and (max-width:767px) {
+    .col-sm-5,
+    .col-sm-7,
+    .sec2,
+    .sec4 {
+        text-align: center
+    }
+    .container,
+    .sec4 img {
+        width: 100%!important
+    }
+    .sec4 {
+        overflow-x: hidden;
+        padding: 8px
+    }
+    .container {
+        margin: 5px!important;
+        padding: 0!important
+    }
+    .sec1 .logo {
+        display: none
+    }
+    .sec1.quote {
+        bottom: 50px
+    }
+    .sec2 {
+        padding: 8px!important
+    }
+    .sec2 img {
+        margin-bottom: 10px
+    }
+    .col-sm-7 {
+        padding: 0
+    }
+    .col-sm-5 {
+        padding: 8px
+    }
+    .sec4 img {
+        margin: 0
+    }
+    .sec6 .blog h2,
+    .sec6 .line1 {
+        margin-top: 10px;
+        position: static
+    }
+    .sec4 a {
+        margin-bottom: 20px
+    }
+    .sec5 .thumb {
+        width: 100%
+    }
+    .sec6 {
+        background-image: url(../images/pte-preparation-woman-reading-pte-blog-mobile.jpg);
+        background-repeat: no-repeat;
+        background-attachment: scroll;
+        background-position: center;
+        background-size: cover;
+        max-width: 767px;
+        height: 600px
+    }
+    .sec6 .blog h1 {
+        position: static
+    }
+    .sec6 .blog ul {
+        position: static;
+        margin-top: 20px;
+        margin-left: 0;
+        list-style-image: none
+    }
+    .sec6 .blog ul li {
+        padding-left: 10px
+    }
+    .sec3 a{display: none;}
+}
+
+@import url(//netdna.bootstrapcdn.com/bootstrap/3.0.2/css/bootstrap.min.css);
+@import url(//netdna.bootstrapcdn.com/bootstrap/3.0.2/css/bootstrap-theme.min.css);

@@ -1,0 +1,3 @@
+The development of easy-to-use statistical software has changed the way statistics is being taught
+and learned. Students can make transformations of variables, create graphs of distrubutions of variables, and select among statistical analyses all at the click of a button. However, even with these
+advancements, students sometimes still find statistics to be an ardous task.

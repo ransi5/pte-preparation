@@ -1,0 +1,526 @@
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:video="http://www.google.com/schemas/sitemap-video/1.1"> 
+   <url> 
+     <loc>https://www.pte-preparation.com/</loc>
+     <video:video>
+       <video:thumbnail_loc>https://www.pte-preparation.com/videoblog/thumbnails/whychooseusthumbnail.jpg</video:thumbnail_loc> 
+       <video:title>We offer Best Way for PTE Preparation</video:title>
+       <video:description>Achieve the PTE scores you need in one Attempt is not a mere advertising slogan for us. It is the end 
+           or goal for which we have optimised and continue to optimise our content and courses for. To do so, we have developed 
+           and provide all tools necessary to help you improve existing English skills, build up new academic English skills 
+           and achieve PTE success in one attempt.</video:description>
+       <video:player_loc allow_embed="yes" autoplay="ap=1">https://player.vimeo.com/video/220587079</video:player_loc>
+       <video:duration>405</video:duration>
+       <video:publication_date>2017-06-07T13:00:00+08:00</video:publication_date>
+       <video:family_friendly>yes</video:family_friendly> 
+    </video:video> 
+   </url> 
+   <url> 
+     <loc>https://www.pte-preparation.com/pte-practice-tests.html.php</loc>
+     <video:video>
+       <video:thumbnail_loc>https://www.pte-preparation.com/videoblog/thumbnails/silvercourse.jpg</video:thumbnail_loc> 
+       <video:title>Complete PTE Preparation with Practice Tests and More</video:title>
+       <video:description>We've designed Silver course for test takers who are extremely proficient in English, have 
+           academic English skills and want to familiarize themselves with the PTE test format with perfect practice so 
+           they are able to achieve the PTE scores that truly reflect their academic English proficiency. Generally, such 
+           test takers are expats who have pursued degrees or other academic courses in English speaking countries.</video:description>
+       <video:player_loc allow_embed="yes" autoplay="ap=1">https://player.vimeo.com/video/220983623</video:player_loc>
+       <video:duration>392</video:duration>
+       <video:publication_date>2017-06-09T13:00:00+08:00</video:publication_date>
+       <video:family_friendly>yes</video:family_friendly> 
+    </video:video> 
+   </url>
+   <url> 
+     <loc>https://www.pte-preparation.com/pte-course-gold.html.php</loc>
+     <video:video>
+       <video:thumbnail_loc>https://www.pte-preparation.com/videoblog/thumbnails/ImprovePTEscores.jpg</video:thumbnail_loc> 
+       <video:title>How to Improve PTE Academic Score with Gold Course</video:title>
+       <video:description>The Gold course is for test takers with intermediate proficiency in English, or students 
+           with English proficiency of 65 and above. In this course, such students are exposed to content that will 
+           help them improve and learn new academic English skills to achieve the required scores in one attempt.</video:description>
+       <video:player_loc allow_embed="yes" autoplay="ap=1">https://player.vimeo.com/video/221251862</video:player_loc>
+       <video:duration>286</video:duration>
+       <video:publication_date>2017-06-12T20:00:00+08:00</video:publication_date>
+       <video:family_friendly>yes</video:family_friendly> 
+    </video:video> 
+   </url>
+   <url> 
+     <loc>https://www.pte-preparation.com/pte-coaching-online.html.php</loc>
+     <video:video>
+       <video:thumbnail_loc>https://www.pte-preparation.com/videoblog/thumbnails/PTECoaching.jpg</video:thumbnail_loc> 
+       <video:title>PTE Coaching for One Attempt PTE Success</video:title>
+       <video:description>A very wise man once said “A problem understood is the problem half solved”. This idea is the 
+           foundation of our coaching program. It is what sets up apart from classroom coaching where students in line 
+           with centuries old ineffective teaching methodologies are fed with pre-prepared lectures and exercises; taking 
+           no account of a student’s individual needs. Hence, in our coaching program we make all effort to understand you 
+           and your English skill level...</video:description>
+       <video:player_loc allow_embed="yes" autoplay="ap=1">https://player.vimeo.com/video/221404614</video:player_loc>
+       <video:duration>315</video:duration>
+       <video:publication_date>2017-06-13T13:00:00+08:00</video:publication_date>
+       <video:family_friendly>yes</video:family_friendly> 
+    </video:video> 
+   </url>
+   <url> 
+     <loc>https://www.pte-preparation.com/pte-video-blog.html.php?vblog=1</loc>
+     <video:video>
+       <video:thumbnail_loc>https://www.pte-preparation.com/videoblog/thumbnails/PTEReadaloudtips.jpg</video:thumbnail_loc> 
+       <video:title>PTE Read Aloud - Understand the Game</video:title>
+       <video:description>Regardless of the level of your English skills, to get PTE scores that truly reflect your English 
+           potential you must understand the game called Pearson Test of English Academic both at a macro and micro level. 
+           When you understand the game, the Skills PTE intends to test with each question type, the layout and time frames 
+           for each question type and how the machine scoring system marks responses for each PTE item type; you will be able 
+           to come out with a strategy to display those skills, make the most out of constraining factors like time and get 
+           the scores that truly reflect your English potential for one attempt PTE success.</video:description>
+       <video:player_loc allow_embed="yes" autoplay="ap=1">https://player.vimeo.com/video/221983005</video:player_loc>
+       <video:duration>559</video:duration>
+       <video:publication_date>2017-06-17T11:30:00+08:00</video:publication_date>
+       <video:family_friendly>yes</video:family_friendly> 
+    </video:video> 
+   </url>
+   <url> 
+     <loc>https://www.pte-preparation.com/pte-video-blog.html.php?vblog=2</loc>
+     <video:video>
+       <video:thumbnail_loc>https://www.pte-preparation.com/videoblog/thumbnails/PTEReadaloudstrategies.jpg</video:thumbnail_loc> 
+       <video:title>PTE Read Aloud Tips and Strategies</video:title>
+       <video:description>Just blunt reading is not going to get you the perfect scores for the read aloud item type. 
+           You have to display the skills that Pearson intends to test with this question type and will come naturally 
+           to someone with high English proficiency.</video:description>
+       <video:player_loc allow_embed="yes" autoplay="ap=1">https://player.vimeo.com/video/221983005</video:player_loc>
+       <video:duration>620</video:duration>
+       <video:publication_date>2017-06-17T12:30:00+08:00</video:publication_date>
+       <video:family_friendly>yes</video:family_friendly> 
+    </video:video> 
+   </url>
+   <url> 
+     <loc>https://www.pte-preparation.com/pte-video-blog.html.php?vblog=3</loc>
+     <video:video>
+       <video:thumbnail_loc>https://www.pte-preparation.com/videoblog/thumbnails/PTERepeatsentencegame.jpg</video:thumbnail_loc> 
+       <video:title>PTE Repeat Sentence - Understand the Game</video:title>
+       <video:description>However, with the tips and strategies that we suggest anybody can remember and repeat an 
+           English sentence regardless of its complexity. Before we get into strategies lets first understand the 
+           rules of the Repeat sentence item type, what skills are tested and scored and you have to display in your 
+           answers.</video:description>
+       <video:player_loc allow_embed="yes" autoplay="ap=1">https://player.vimeo.com/video/222188936</video:player_loc>
+       <video:duration>531</video:duration>
+       <video:publication_date>2017-06-19T11:30:00+08:00</video:publication_date>
+       <video:family_friendly>yes</video:family_friendly> 
+    </video:video> 
+   </url>
+   <url> 
+     <loc>https://www.pte-preparation.com/pte-video-blog.html.php?vblog=4</loc>
+     <video:video>
+       <video:thumbnail_loc>https://www.pte-preparation.com/videoblog/thumbnails/PTERepeatsentenceTips.jpg</video:thumbnail_loc> 
+       <video:title>PTE Repeat Sentence Strategy and Tips</video:title>
+       <video:description>There are basically two steps in the repeat sentence item type. first is listening; listening 
+           to the sentence, second is speaking; which is to Repeat the Sentence you heard aloud. Success depends on 
+           how well you execute these two steps. Of course the first step is the most important. I mean if you are 
+           distracted during the listening phase...</video:description>
+       <video:player_loc allow_embed="yes" autoplay="ap=1">https://player.vimeo.com/video/222202877</video:player_loc>
+       <video:duration>425</video:duration>
+       <video:publication_date>2017-06-19T12:30:00+08:00</video:publication_date>
+       <video:family_friendly>yes</video:family_friendly> 
+    </video:video> 
+   </url>
+   <url> 
+     <loc>https://www.pte-preparation.com/pte-video-blog.html.php?vblog=5</loc>
+     <video:video>
+       <video:thumbnail_loc>https://www.pte-preparation.com/videoblog/thumbnails/ptedescribeimagegame.jpg</video:thumbnail_loc> 
+       <video:title>PTE Describe Image - Understand the Game</video:title>
+       <video:description>Well, actually describe Image is one of the easier item types. In this video and other videos 
+           and blogs, we are going to equip you with patriotic missile equipped with the skills that will help you take 
+           out this particular PTE tomahawk.</video:description>
+       <video:player_loc allow_embed="yes" autoplay="ap=1">https://player.vimeo.com/video/222515869</video:player_loc>
+       <video:duration>625</video:duration>
+       <video:publication_date>2017-06-22T11:30:00+08:00</video:publication_date>
+       <video:family_friendly>yes</video:family_friendly> 
+    </video:video> 
+   </url>
+   <url> 
+     <loc>https://www.pte-preparation.com/pte-video-blog.html.php?vblog=6</loc>
+     <video:video>
+       <video:thumbnail_loc>https://www.pte-preparation.com/videoblog/thumbnails/ptedescribeimageelements.jpg</video:thumbnail_loc> 
+       <video:title>PTE Describe Image - Identifying Image elements</video:title>
+       <video:description>We live in a digital world. Where almost every electronic thingy has a high quality camera. 
+           People now take, produce and share more images than at any point before. We process images on social media 
+           sites; we like and share them. On the streets and internet we are constantly bombarded by images vying for 
+           our attention. Yet the most common reason, we hear in relation to why test takers feel that they struggle 
+           with describe image item type is that they have never done it before. May be not consciously describe and 
+           described in English you haven't done, but your subconscious mind has processed images and made you like 
+           it or not on social media.</video:description>
+       <video:player_loc allow_embed="yes" autoplay="ap=1">https://player.vimeo.com/video/222531269</video:player_loc>
+       <video:duration>486</video:duration>
+       <video:publication_date>2017-06-22T11:30:00+08:00</video:publication_date>
+       <video:family_friendly>yes</video:family_friendly> 
+    </video:video> 
+   </url>
+   <url> 
+     <loc>https://www.pte-preparation.com/pte-video-blog.html.php?vblog=7</loc>
+     <video:video>
+       <video:thumbnail_loc>https://www.pte-preparation.com/videoblog/thumbnails/ptedescribeimagetips.jpg</video:thumbnail_loc> 
+       <video:title>PTE Describe Image - Speaking Impromptu</video:title>
+       <video:description>In relation to describe image item type, the reason most struggle to speak impromptu is because 
+           they either are not sure of what elements and in what order to describe those elements or they do not have 
+           the lexical resources to effectively communicate their. We have covered the former so if you are watching this 
+           video all you need is practice. With regards to the latter, the answer is simple, you need to build up English 
+           skills such as vocabulary and syntax to be able to effectively communicate your ideas. The question is what is 
+           the quickest and most efficient way to go about this.</video:description>
+       <video:player_loc allow_embed="yes" autoplay="ap=1">https://player.vimeo.com/video/222625770</video:player_loc>
+       <video:duration>443</video:duration>
+       <video:publication_date>2017-06-22T12:30:00+08:00</video:publication_date>
+       <video:family_friendly>yes</video:family_friendly> 
+    </video:video> 
+   </url>
+   <url> 
+     <loc>https://www.pte-preparation.com/pte-video-blog.html.php?vblog=8</loc>
+     <video:video>
+       <video:thumbnail_loc>https://www.pte-preparation.com/videoblog/thumbnails/PTEre-telltips.jpg</video:thumbnail_loc> 
+       <video:title>PTE Re-tell Lecture - Understand the Game</video:title>
+       <video:description>With regards to listening, although most test takers have the ability to comprehend 
+           and remember the most important aspects of the lecture, however because of fear and incorrect strategy, 
+           most are unable to perform this function to the best of their ability.</video:description>
+       <video:player_loc allow_embed="yes" autoplay="ap=1">https://player.vimeo.com/video/223003948</video:player_loc>
+       <video:duration>636</video:duration>
+       <video:publication_date>2017-06-25T11:30:00+08:00</video:publication_date>
+       <video:family_friendly>yes</video:family_friendly> 
+    </video:video> 
+   </url>
+   <url> 
+     <loc>https://www.pte-preparation.com/pte-video-blog.html.php?vblog=9</loc>
+     <video:video>
+       <video:thumbnail_loc>https://www.pte-preparation.com/videoblog/thumbnails/PTEretelltips.jpg</video:thumbnail_loc> 
+       <video:title>PTE Re-tell Lecture Tips - Listening</video:title>
+       <video:description>You display this superhuman human ability whenever you are listening, listening to phone calls, 
+           listening to lectures at schools and university or even now when you are listening to me. your subconscious 
+           mind is comprehending what its listening to and associating it with your knowledge bank so as to internalize 
+           new information and make it part of yourself forever. The information that it finds not useful is discarded 
+           in the recycle bin of your memory to be eventually forgotten. When you talk to your friends your frequently 
+           use these skills to recall conversations and lectures to pass on information to a friend who missed a lecture 
+           or was not present during a conversation.</video:description>
+       <video:player_loc allow_embed="yes" autoplay="ap=1">https://player.vimeo.com/video/223006110</video:player_loc>
+       <video:duration>369</video:duration>
+       <video:publication_date>2017-06-25T11:30:00+08:00</video:publication_date>
+       <video:family_friendly>yes</video:family_friendly> 
+    </video:video> 
+   </url>
+   <url> 
+     <loc>https://www.pte-preparation.com/pte-video-blog.html.php?vblog=10</loc>
+     <video:video>
+       <video:thumbnail_loc>https://www.pte-preparation.com/videoblog/thumbnails/PTEspeakingtips.jpg</video:thumbnail_loc> 
+       <video:title>PTE Re-tell Lecture tips - Speaking Impromptu</video:title>
+       <video:description>With regards to listening, although most test takers have the ability to comprehend and 
+           remember the most important aspects of the lecture, however because of fear and incorrect strategy, most 
+           are unable to perform this function to the best of their ability.</video:description>
+       <video:player_loc allow_embed="yes" autoplay="ap=1">https://player.vimeo.com/video/223011550</video:player_loc>
+       <video:duration>314</video:duration>
+       <video:publication_date>2017-06-25T11:30:00+08:00</video:publication_date>
+       <video:family_friendly>yes</video:family_friendly> 
+    </video:video> 
+   </url>
+   <url> 
+     <loc>https://www.pte-preparation.com/pte-video-blog.html.php?vblog=11</loc>
+     <video:video>
+       <video:thumbnail_loc>https://www.pte-preparation.com/videoblog/thumbnails/ASQTips.jpg</video:thumbnail_loc> 
+       <video:title>PTE Answer Short Question - Tips</video:title>
+       <video:description>Answer short question is the simplest and easiest question types in the PTE test. In this 
+           video, I am going to present information on why such a a question that seems to be silly is in the PTE 
+           test, what skills it intends to test, how to answer the question and other information that you should 
+           know before attempting the actual PTE test.</video:description>
+       <video:player_loc allow_embed="yes" autoplay="ap=1">https://player.vimeo.com/video/223445809</video:player_loc>
+       <video:duration>407</video:duration>
+       <video:publication_date>2017-06-28T11:30:00+08:00</video:publication_date>
+       <video:family_friendly>yes</video:family_friendly> 
+    </video:video> 
+   </url>
+   <url> 
+     <loc>https://www.pte-preparation.com/pte-video-blog.html.php?vblog=12</loc>
+     <video:video>
+       <video:thumbnail_loc>https://www.pte-preparation.com/videoblog/thumbnails/PTEsummarisetext.jpg</video:thumbnail_loc> 
+       <video:title>PTE Summarise Written Text - Understand the Game</video:title>
+       <video:description>Believe it or nor, Summarise writtent text is not as difficult as it appears to most test takers. 
+           With the right approach or strategy and perfect practice, anyone regardless of level of English proficiency can 
+           achieve perfect score for this item type. With this item type PTE intends to test your reading comprehension more 
+           specifically your ability to derive the idea portrayed in a written text from reading and your ability to 
+           communicate the same in a complex sentence.</video:description>
+       <video:player_loc allow_embed="yes" autoplay="ap=1">https://player.vimeo.com/video/223600718</video:player_loc>
+       <video:duration>564</video:duration>
+       <video:publication_date>2017-06-29T11:30:00+08:00</video:publication_date>
+       <video:family_friendly>yes</video:family_friendly> 
+    </video:video> 
+   </url>
+   <url> 
+     <loc>https://www.pte-preparation.com/pte-video-blog.html.php?vblog=13</loc>
+     <video:video>
+       <video:thumbnail_loc>https://www.pte-preparation.com/videoblog/thumbnails/PTEsummarisetexttips.jpg</video:thumbnail_loc> 
+       <video:title>PTE Summarise Written Text - Tips</video:title>
+       <video:description>In this video, I will provide information that will make the task of comprehending 
+           the text, deriving the elements that should become part of your summary and writing a walk in the 
+           park.</video:description>
+       <video:player_loc allow_embed="yes" autoplay="ap=1">https://player.vimeo.com/video/223608008</video:player_loc>
+       <video:duration>650</video:duration>
+       <video:publication_date>2017-06-29T11:30:00+08:00</video:publication_date>
+       <video:family_friendly>yes</video:family_friendly> 
+    </video:video> 
+   </url>
+   <url> 
+     <loc>https://www.pte-preparation.com/pte-video-blog.html.php?vblog=14</loc>
+     <video:video>
+       <video:thumbnail_loc>https://www.pte-preparation.com/videoblog/thumbnails/essaygame.jpg</video:thumbnail_loc> 
+       <video:title>PTE Essay Tips - Understand the Game</video:title>
+       <video:description>Write Essay is a common feature of all English language proficiency test and is the one most 
+           feared by test takers. Test takers fear that they do not have understanding or knowledge about the essay 
+           topic to write an effective essay, they fear that they will be unable to generate adequate ideas or that 
+           they do not have the adeuate English skills to communicate their ideas effectively. Well, in this series 
+           of articles and videos you will find effective tips that with perfect practice and guidance have helped many 
+           of my students perform well in writing tasks and developed all round English skills.</video:description>
+       <video:player_loc allow_embed="yes" autoplay="ap=1">https://player.vimeo.com/video/225232562</video:player_loc>
+       <video:duration>598</video:duration>
+       <video:publication_date>2017-07-12T11:30:00+08:00</video:publication_date>
+       <video:family_friendly>yes</video:family_friendly> 
+    </video:video> 
+   </url>
+   <url> 
+     <loc>https://www.pte-preparation.com/pte-video-blog.html.php?vblog=15</loc>
+     <video:video>
+       <video:thumbnail_loc>https://www.pte-preparation.com/videoblog/thumbnails/essaycontent.jpg</video:thumbnail_loc> 
+       <video:title>PTE Essay Tips - First Step</video:title>
+       <video:description>Most test takers, I dont know for what reason, either because they are unaware of the scoring 
+           system or that they feel content and coherency are easy and do not focus on this criteria. We know that the primary 
+           reason that most test takers fare badly for the essay question type is content and coherency and the reason 
+           for this is most test takers do not uderstand the essay question and write on a topic in the essay question 
+           generally or broadly without answering or addressing the issue the essay question expected.</video:description>
+       <video:player_loc allow_embed="yes" autoplay="ap=1">https://player.vimeo.com/video/225248095</video:player_loc>
+       <video:duration>679</video:duration>
+       <video:publication_date>2017-07-12T11:30:00+08:00</video:publication_date>
+       <video:family_friendly>yes</video:family_friendly> 
+    </video:video> 
+   </url>
+   <url> 
+     <loc>https://www.pte-preparation.com/pte-video-blog.html.php?vblog=16</loc>
+     <video:video>
+       <video:thumbnail_loc>https://www.pte-preparation.com/videoblog/thumbnails/essaycoherence.jpg</video:thumbnail_loc> 
+       <video:title>PTE Essay Tips - Planning your Essay</video:title>
+       <video:description>PTE test takers can score maximum 2 points for development, structure and coherence. These are 
+           easy 2 points, yet we find that most test takers are only able to score 1 for this enabling skill. The reason 
+           being that most test takers do not know how to structure an academic essay. They know the basics that there are 
+           3 parts, namely, introduction, body and conclusion in an essay. What test takers do not know or are confused 
+           about is, how to compose and present their arguments in a logical manner within these parts in an academic 
+           essay. In this video, I will present strategies and tips to clearly express your ideas/thoughts/opinions in an 
+           academically coherent way.</video:description>
+       <video:player_loc allow_embed="yes" autoplay="ap=1">https://player.vimeo.com/video/225388597</video:player_loc>
+       <video:duration>793</video:duration>
+       <video:publication_date>2017-07-13T11:30:00+08:00</video:publication_date>
+       <video:family_friendly>yes</video:family_friendly> 
+    </video:video> 
+   </url>
+   <url> 
+     <loc>https://www.pte-preparation.com/pte-video-blog.html.php?vblog=17</loc>
+     <video:video>
+       <video:thumbnail_loc>https://www.pte-preparation.com/videoblog/thumbnails/singleanswer.jpg</video:thumbnail_loc> 
+       <video:title>PTE Multiple Choice - Single Answer Tips</video:title>
+       <video:description>There are few question types, like where the test taker is supposed to infer the gist of the 
+           reading text, which most PTE test takers struggle with. Then there is the element of time, where students 
+           spend too much time to get the answers right. In this video, I will suggest strategies and tips that will help 
+           you overcome these difficulties and get perfect scores every time with time efficiency.</video:description>
+       <video:player_loc allow_embed="yes" autoplay="ap=1">https://player.vimeo.com/video/226120952</video:player_loc>
+       <video:duration>551</video:duration>
+       <video:publication_date>2017-07-19T11:30:00+08:00</video:publication_date>
+       <video:family_friendly>yes</video:family_friendly> 
+    </video:video> 
+   </url>
+   <url> 
+     <loc>https://www.pte-preparation.com/pte-video-blog.html.php?vblog=18</loc>
+     <video:video>
+       <video:thumbnail_loc>https://www.pte-preparation.com/videoblog/thumbnails/ptevsielts.jpg</video:thumbnail_loc> 
+       <video:title>PTE vs IELTS - Which test you should attempt</video:title>
+       <video:description>Governments and educational institutions are most concerned about recognising English 
+           proficiency tests whose scores truly or most efficiently reflect the test takers English potential. On the 
+           other hand test takers want to choose tests that will mark them fairly and is more scoring. Whether you are 
+           a test taker, or an education institution or government employee, in this video I will provide answers for 
+           questions that will help you choose the right English language proficiency test that meets your needs.</video:description>
+       <video:player_loc allow_embed="yes" autoplay="ap=1">https://player.vimeo.com/video/226286468</video:player_loc>
+       <video:duration>553</video:duration>
+       <video:publication_date>2017-07-20T11:30:00+08:00</video:publication_date>
+       <video:family_friendly>yes</video:family_friendly> 
+    </video:video> 
+   </url>
+   <url> 
+     <loc>https://www.pte-preparation.com/pte-video-blog.html.php?vblog=19</loc>
+     <video:video>
+       <video:thumbnail_loc>https://www.pte-preparation.com/videoblog/thumbnails/rmultiplechoice.jpg</video:thumbnail_loc> 
+       <video:title>PTE Reading Multiple Choice Multiple Answer Tips</video:title>
+       <video:description>All it takes to do well in this item type is a little practice and most PTE test takers manage 
+           to do pretty well. However, there are few question types, like where the test taker is supposed to infer the 
+           gist of the reading text, which most PTE test takers struggle with. Then there is the element of time, where 
+           students spend too much time to get the answers right. The strategies and tips to overcome these problems are 
+           same as for multiple-choice, choose single answer. However, for completeness sake, in this blog, we will suggest 
+           strategies and tips, tweaked up for this item type.</video:description>
+       <video:player_loc allow_embed="yes" autoplay="ap=1">https://player.vimeo.com/video/226430286</video:player_loc>
+       <video:duration>417</video:duration>
+       <video:publication_date>2017-07-21T11:30:00+08:00</video:publication_date>
+       <video:family_friendly>yes</video:family_friendly> 
+    </video:video> 
+   </url>
+   <url> 
+     <loc>https://www.pte-preparation.com/pte-video-blog.html.php?vblog=20</loc>
+     <video:video>
+       <video:thumbnail_loc>https://www.pte-preparation.com/videoblog/thumbnails/reorderparapraph.jpg</video:thumbnail_loc> 
+       <video:title>PTE Re-order paragraph tips - 100% Effective</video:title>
+       <video:description>Most PTE test takers find the task in Re-order Paragraph type complex and approach these questions 
+           with fear. We believe the reason is that most test takers do not understand the task and do not know how to approach 
+           the question. In this video, I will provide clarity on these questions. You will find that re-order paragaraph is 
+           indeed an easy, simple item type which if approached correctly requires little effort and time to answer correctly 
+           in one attempt.</video:description>
+       <video:player_loc allow_embed="yes" autoplay="ap=1">https://player.vimeo.com/video/228067182</video:player_loc>
+       <video:duration>634</video:duration>
+       <video:publication_date>2017-08-02T11:30:00+08:00</video:publication_date>
+       <video:family_friendly>yes</video:family_friendly> 
+    </video:video> 
+   </url>
+   <url> 
+     <loc>https://www.pte-preparation.com/pte-video-blog.html.php?vblog=21</loc>
+     <video:video>
+       <video:thumbnail_loc>https://www.pte-preparation.com/videoblog/thumbnails/Fillblanks.jpg</video:thumbnail_loc> 
+       <video:title>PTE Reading Tips - Fill in the Blanks</video:title>
+       <video:description>Reading, Fill in the Blanks is one of the easiest item types in the PTE test. Moreover, there 
+           are 4-5 questions in this item type; so you are able to build up your reading and overall score. Surprisingly, 
+           Most test takers struggle with this item type. Where test takers face difficulty is when they come across 
+           unfamiliar words in the text and options given. In this video I will present strategies and tips on how to resolve 
+           these difficulties.</video:description>
+       <video:player_loc allow_embed="yes" autoplay="ap=1">https://player.vimeo.com/video/228203911</video:player_loc>
+       <video:duration>489</video:duration>
+       <video:publication_date>2017-08-03T11:30:00+08:00</video:publication_date>
+       <video:family_friendly>yes</video:family_friendly> 
+    </video:video> 
+   </url>
+   <url> 
+     <loc>https://www.pte-preparation.com/pte-video-blog.html.php?vblog=22</loc>
+     <video:video>
+       <video:thumbnail_loc>https://www.pte-preparation.com/videoblog/thumbnails/rwfillblanks.jpg</video:thumbnail_loc> 
+       <video:title>PTE Reading and Writing - Tips Fill in the Blanks</video:title>
+       <video:description>Reading and writing, fill in the blanks is similar to reading fill in the blanks item type and 
+           is another one of the easy item types in the PTE test. Moreover, there are 5-6 questions in this item type; 
+           so here is another oppurtunity for you to further build up your reading, writing and overall score. Most test 
+           takers manage to score extremely well in this item type. Test takers face same difficulty as in reading, fill 
+           in the blanks item type. Which is when they come across unfamiliar words in the text and options given. Strategies 
+           and tips on how to resolve these difficulties are same as well. However, for completeness sake, I will repeat 
+           tweaked up strategies and tips for this item type.</video:description>
+       <video:player_loc allow_embed="yes" autoplay="ap=1">https://player.vimeo.com/video/228208429</video:player_loc>
+       <video:duration>506</video:duration>
+       <video:publication_date>2017-08-03T11:30:00+08:00</video:publication_date>
+       <video:family_friendly>yes</video:family_friendly> 
+    </video:video> 
+   </url>
+   <url> 
+     <loc>https://www.pte-preparation.com/pte-video-blog.html.php?vblog=23</loc>
+     <video:video>
+       <video:thumbnail_loc>https://www.pte-preparation.com/videoblog/thumbnails/spoken.jpg</video:thumbnail_loc> 
+       <video:title>PTE Summarize Spoken Test Tips - Understand the Game</video:title>
+       <video:description>In the videos in this series, I will describe strategies and tips to overcome these problems 
+           and more. When you master these strategies and tips with proper practice, this question type will seem like 
+           a walk in the park. However, to understand and implement these strategies you must first, understand the rules 
+           of the game.</video:description>
+       <video:player_loc allow_embed="yes" autoplay="ap=1">https://player.vimeo.com/video/230310818</video:player_loc>
+       <video:duration>569</video:duration>
+       <video:publication_date>2017-08-20T11:30:00+08:00</video:publication_date>
+       <video:family_friendly>yes</video:family_friendly> 
+    </video:video> 
+   </url>
+   <url> 
+     <loc>https://www.pte-preparation.com/pte-video-blog.html.php?vblog=24</loc>
+     <video:video>
+       <video:thumbnail_loc>https://www.pte-preparation.com/videoblog/thumbnails/spokenlisten.jpg</video:thumbnail_loc> 
+       <video:title>PTE Summarize Spoken Text Tips - Listening</video:title>
+       <video:description>We have observed too many PTE test takers spend too much time trying to write down the key 
+           points/topics/ideas word for word as they listen or they spend effort memorizing key points. As a result, 
+           many such test takers are unable to comprehend the lecture, they miss out important points and are not able 
+           to include all the important points in their summary and later have trouble writing a summary. such inefficient 
+           strategies costs test takers important points for content.</video:description>
+       <video:player_loc allow_embed="yes" autoplay="ap=1">https://player.vimeo.com/video/230314691</video:player_loc>
+       <video:duration>392</video:duration>
+       <video:publication_date>2017-08-20T11:30:00+08:00</video:publication_date>
+       <video:family_friendly>yes</video:family_friendly> 
+    </video:video> 
+   </url>
+   <url> 
+     <loc>https://www.pte-preparation.com/pte-video-blog.html.php?vblog=25</loc>
+     <video:video>
+       <video:thumbnail_loc>https://www.pte-preparation.com/videoblog/thumbnails/spokenwrite.jpg</video:thumbnail_loc> 
+       <video:title>PTE Summarize Spoken Test Tips - Writing</video:title>
+       <video:description>Now you can go about the task of writing a summary in a haphazard way and still score get perfect 
+           score. However, it is not the most efficient way and there is no guarantee of success in very attempt. The most 
+           efficient way is to have a clear academic structure for your summary and put information that you derive from the 
+           speech in that text. Ideally, you should use the structure for academic paragraph; which is that your summary 
+           should have a topic sentence, body and a conclusion.</video:description>
+       <video:player_loc allow_embed="yes" autoplay="ap=1">https://player.vimeo.com/video/230316471</video:player_loc>
+       <video:duration>441</video:duration>
+       <video:publication_date>2017-08-20T11:30:00+08:00</video:publication_date>
+       <video:family_friendly>yes</video:family_friendly> 
+    </video:video> 
+   </url>
+   <url> 
+     <loc>https://www.pte-preparation.com/pte-video-blog.html.php?vblog=26</loc>
+     <video:video>
+       <video:thumbnail_loc>https://www.pte-preparation.com/videoblog/thumbnails/lmcqma.jpg</video:thumbnail_loc> 
+       <video:title>Listening Multiple Choice, Choose Multiple answer Tips - 100% EFFECTIVE</video:title>
+       <video:description>Listening, multiple-choice, choose multiple answers item type is similar to reading, multiple-choice, 
+           choose multiple answers item type. The only difference being is that for this question type you have to choose 
+           correct answers by listening to an audio recording once, instead of reading a text. The fact that you have to 
+           answer by listening to an audio recording once; adds a level of difficulty for this question type. However, if you 
+           prepare yourself to listen and comprehend the message of the audio player before it starts and listen carefully 
+           than it is easy to score well in this item type and most PTE test takers do manage to do pretty well. All it takes 
+           is a little practice.</video:description>
+       <video:player_loc allow_embed="yes" autoplay="ap=1">https://player.vimeo.com/video/232025041</video:player_loc>
+       <video:duration>611</video:duration>
+       <video:publication_date>2017-09-01T11:30:00+08:00</video:publication_date>
+       <video:family_friendly>yes</video:family_friendly> 
+    </video:video> 
+   </url>
+   <url> 
+     <loc>https://www.pte-preparation.com/pte-video-blog.html.php?vblog=27</loc>
+     <video:video>
+       <video:thumbnail_loc>https://www.pte-preparation.com/videoblog/thumbnails/lwblanks.jpg</video:thumbnail_loc> 
+       <video:title>PTE Listening and Writing, Fill in the Blanks Tips - 100% EFFECTIVE</video:title>
+       <video:description>Listening, fill in the blanks is one of the easiest item types in the PTE test. This item type 
+           is basically like a spelling test. Hence it gives PTE test takers an excellent opportunity to further build up 
+           points for listening, writing and overall score. However, to do well you must understand what this question type 
+           tests, how it scores answers, how to use your time efficiently and how to approach the questions. </video:description>
+       <video:player_loc allow_embed="yes" autoplay="ap=1">https://player.vimeo.com/video/232036668</video:player_loc>
+       <video:duration>415</video:duration>
+       <video:publication_date>2017-09-01T12:30:00+08:00</video:publication_date>
+       <video:family_friendly>yes</video:family_friendly> 
+    </video:video> 
+   </url>
+   <url> 
+     <loc>https://www.pte-preparation.com/pte-video-blog.html.php?vblog=28</loc>
+     <video:video>
+       <video:thumbnail_loc>https://www.pte-preparation.com/videoblog/thumbnails/lsummary.jpg</video:thumbnail_loc> 
+       <video:title >PTE Highlight Correct Summary Tips - 100% EFFECTIVE</video:title>
+       <video:description>Highlight correct summary item type is similar to Listening, multiple-choice, choose single/multiple 
+           answers item types. In fact, it is easier then these other PTE item types. Unlike the multiple choice item types 
+           you know that the purpose with which you listen, which will always be to deduce the summary of the audio 
+           speech.</video:description>
+       <video:player_loc allow_embed="yes" autoplay="ap=1">https://player.vimeo.com/video/232202879</video:player_loc>
+       <video:duration>619</video:duration>
+       <video:publication_date>2017-09-03T12:30:00+08:00</video:publication_date>
+       <video:family_friendly>yes</video:family_friendly> 
+    </video:video> 
+   </url>
+   <url> 
+     <loc>https://www.pte-preparation.com/pte-video-blog.html.php?vblog=29</loc>
+     <video:video>
+       <video:thumbnail_loc>https://www.pte-preparation.com/videoblog/thumbnails/lsingleanswer.jpg</video:thumbnail_loc> 
+       <video:title >Listening Multiple Choice, Choose Single answer Tips - 100% EFFECTIVE</video:title>
+       <video:description>Listening, multiple-choice, choose single answer item type is similar to listening, multiple-choice, 
+           choose multiple answers item type. The fact that this item type has just one correct answer and there is no negative 
+           marking, makes it easier than listening, choose multiple answers item type. However, like in listening, multiple-choice, 
+           choose multiple answers, here also to score full points you have to properly prepare beforehand to listen and 
+           comprehend the message of the audio recording. To do well in this item type consistently, all it takes is a little 
+           practice. In this video, I will present strategies and tips that will enable you to perform these functions and 
+           choose the right answer consistently and efficiently.</video:description>
+       <video:player_loc allow_embed="yes" autoplay="ap=1">https://player.vimeo.com/video/236906908</video:player_loc>
+       <video:duration>602</video:duration>
+       <video:publication_date>2017-10-05T12:30:00+08:00</video:publication_date>
+       <video:family_friendly>yes</video:family_friendly> 
+    </video:video> 
+   </url>
+</urlset>
